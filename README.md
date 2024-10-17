@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/@samiraliyev64" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@samiraliyev64" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/samir aliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir aliyev" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/samirnaliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="samir aliyev" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/samir-aliyev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="samir-aliyev" height="30" width="40" /></a>
 </p>
 
