@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Samir Aliyev</h1>
-<h3 align="center">A passionate Fullstack developer from Azerbaijan</h3>
+<h3 align="center">A passionate Software Engineer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://static.wixstatic.com/media/b313a9_89ebec0c5f384c65a9551f0c1ec18ca9~mv2.gif">
 
 
